@@ -1,0 +1,37 @@
+body {
+    color: black;
+    font-size: 25px;
+    margin: 200px auto;
+    text-align: center;
+    font: 1.2em "Fira Sans", sans-serif;;
+}
+ul li{
+    background-color: 	#7365cca7;
+    color: white;
+    padding: 15px 30px;
+    display: inline-block;
+    
+}
+
+.btn li {
+    color: white;
+    background-color: black;
+    padding: 15px 30px;
+    margin: 0 12px;
+    border-radius: 10px;/*làm tròn góc*/
+}
+
+h2 {
+    font-size: 45px;
+    font-weight: normal; /*thiết lập độ dày mỏng của chữ*/
+    margin-bottom: 25px;
+}
+
+h2 b {
+    color: #00aeef;
+    font-weight: 600;
+}
+
+p {
+    margin-bottom: 40px;
+}
